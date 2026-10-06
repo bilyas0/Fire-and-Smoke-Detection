@@ -1,6 +1,6 @@
-# 🔥 Hibrit Yangın Tespit ve Doğrulama Sistemi
+# Hibrit Yangın Tespit ve Doğrulama Sistemi
 
-**YOLO + Yerel Görsel Dil Modeli (VLM) + Telegram Alarm**
+**YOLO + Görsel Dil Modeli (VLM) + Telegram Alarm**
 
 Bu proje, kamera veya video görüntüsünden **gerçek zamanlı yangın / duman tespiti** yapar. Tespiti tek bir modele bırakmaz; **hibrit** bir yapı kullanır:
 
