@@ -1,4 +1,4 @@
-# Hibrit Yangın Tespit ve Doğrulama Sistemi
+# 🔥 Hibrit Yangın Tespit ve Doğrulama Sistemi
 
 **YOLO + Görsel Dil Modeli (VLM) + Telegram Alarm**
 
