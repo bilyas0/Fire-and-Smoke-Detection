@@ -68,6 +68,7 @@ flowchart TD
 | 8 | 5 saniye sonra video klip tamamlanır ve Telegram'a yüklenir | `telegram_notifier.py` |
 | 9 | Ortamda 3 saniye boyunca tehdit görünmezse sistem sıfırlanır | Ana pipeline |
 
+
 ### Neden hibrit?
 
 - **Sadece YOLO:** Çok hızlı ama araba farı, sigara dumanı, buhar gibi şeylere yanlış alarm verebilir.
